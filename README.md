@@ -1,4 +1,4 @@
-## typografia 🚀🚀
+## Tipografia para desarrolladores vscode 🚀🚀
 ### Example
 
 ```
