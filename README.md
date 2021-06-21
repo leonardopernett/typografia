@@ -1,5 +1,5 @@
-# typografia
-### Example
+#typografia 🚀 🚀 🚀
+###Example
 
 ```
     "editor.fontFamily": "JetBrains Mono Regular",
