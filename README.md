@@ -1,4 +1,4 @@
-# typografia 🚀 🚀 🚀
+## typografia 🚀🚀
 ### Example
 
 ```
